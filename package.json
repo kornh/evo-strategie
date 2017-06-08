@@ -1,0 +1,23 @@
+{
+  "name": "evo-strategie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kornh/evo-bergsteiger.git"
+  },
+  "author": "KH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kornh/evo-bergsteiger/issues"
+  },
+  "homepage": "https://github.com/kornh/evo-bergsteiger#readme",
+  "dependencies": {
+    "randgen": "^0.1.0"
+  },
+  "devDependencies": {}
+}
